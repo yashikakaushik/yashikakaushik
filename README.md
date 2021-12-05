@@ -62,7 +62,7 @@
 <h2> &nbsp;About Me </h2>
 
 - 😄 Pronouns: She/Her 
-- 🔭 I’m currently working on: Netflix clone project
+- 🔭 I’m currently working on: Currency Changing Website
 - ❤️ My favorite language: CPP
 - 🌱 I’m currently learning: Frontend Development
 - 💬 Ask me about: anything, I am happy to help
