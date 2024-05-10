@@ -62,9 +62,9 @@
 <h2> &nbsp;About Me </h2>
 
 - 😄 Pronouns: She/Her 
-- 🔭 I’m currently working on: Currency Changing Website
+- 🔭 I’m currently working at: JusPay
 - ❤️ My favorite language: CPP
-- 🌱 I’m currently learning: Frontend Development
+- 🌱 I’m currently learning: iOS Dev
 - 💬 Ask me about: anything, I am happy to help
 - 🌍 I support: Women in Tech
 - 💜 Interests: philosophy, travel, internet culture, theatre acting, Marvel
